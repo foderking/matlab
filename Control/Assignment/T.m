@@ -1,0 +1,1 @@
+G = zpk([],[-config.a -a_m 0],K_pot*config.K1*K_m*K_g)
